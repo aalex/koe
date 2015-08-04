@@ -1,6 +1,6 @@
 #!/usr/bin/env lunch
 # Launches the installation.
 
-add_command("open -W -n -a /Applications/Max.app ~/src/koe/patches/MAIN_KINECT.maxpat", identifier="max_detection", sleep_after=20)
+add_command("open -W -n -a /Applications/Max.app ~/src/koe/patches/MAIN_KINECT.maxpat", identifier="max_kinect", sleep_after=20)
 add_command("open -W -n -a /Applications/Max.app ~/src/koe/src/MAIN_RENDER.maxpat", identifier="max_render")
 

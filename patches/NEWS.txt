@@ -11,3 +11,6 @@ Two players with crossfade
 One clip with blur effect.
 
 
+2015-08-04 0.1.2
+----------------
+One clip with motion blur effect.

@@ -1,0 +1,13 @@
+KOE NEWS
+========
+
+2015-08-04 0.1.0
+----------------
+Two players with crossfade
+
+
+2015-08-04 0.1.1
+----------------
+One clip with blur effect.
+
+

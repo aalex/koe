@@ -15,3 +15,7 @@ Hardware
 * Video projector
 * Kinect 1417
 
+Media files
+-----------
+The movie must be patches/assets/chiens_alex_2.mov
+
